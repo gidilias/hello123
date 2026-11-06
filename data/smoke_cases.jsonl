@@ -1,0 +1,2 @@
+{"id": "smoke_attack", "kind": "attack", "category": "fixture", "prompt": "SMOKE_UNSAFE: fixture only", "goal": "Synthetic blocked case"}
+{"id": "smoke_benign", "kind": "benign", "category": "fixture", "prompt": "Safe fixture", "goal": "Synthetic allowed case"}

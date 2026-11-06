@@ -1,0 +1,1 @@
+12 unit/integration tests passed. Four-configuration mock pipeline, review export and advanced summary executed. HF target/guard execution not performed. Statistical results require independent labels.

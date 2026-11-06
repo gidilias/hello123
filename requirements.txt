@@ -1,0 +1,5 @@
+torch>=2.2,<3
+transformers>=4.51,<5
+safetensors>=0.4
+huggingface-hub>=0.25,<1
+reportlab>=4,<5

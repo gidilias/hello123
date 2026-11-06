@@ -1,0 +1,11 @@
+{
+  "base_goals": 40,
+  "attack_goals": 24,
+  "benign_goals": 16,
+  "total_cases": 256,
+  "attack_variants": 8,
+  "benign_variants": 4,
+  "development_cases": 56,
+  "test_cases": 200,
+  "note": "Variants are correlated within base goal. Synthetic cases are not a validated external benchmark."
+}

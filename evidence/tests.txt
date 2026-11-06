@@ -1,0 +1,14 @@
+test_guard_fpr_uses_safe_raw_gold (test_pipeline.Tests.test_guard_fpr_uses_safe_raw_gold) ... ok
+test_guard_parser_rejects_instruction_injection (test_pipeline.Tests.test_guard_parser_rejects_instruction_injection) ... ok
+test_incomplete_never_leaks (test_pipeline.Tests.test_incomplete_never_leaks) ... ok
+test_missing_review_is_unresolved (test_pipeline.Tests.test_missing_review_is_unresolved) ... ok
+test_no_final_never_leaks (test_pipeline.Tests.test_no_final_never_leaks) ... ok
+test_reasoning_with_template_open (test_pipeline.Tests.test_reasoning_with_template_open) ... ok
+test_resume_rejects_changed_protocol (test_pipeline.Tests.test_resume_rejects_changed_protocol) ... ok
+test_run_resume_blinding_and_summary (test_pipeline.Tests.test_run_resume_blinding_and_summary) ... ok
+test_zero_sample_interval_is_missing (test_pipeline.Tests.test_zero_sample_interval_is_missing) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.938s
+
+OK
